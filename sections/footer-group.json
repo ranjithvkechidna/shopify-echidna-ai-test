@@ -1,0 +1,291 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "multicolumn_icon_rTKNUF": {
+      "type": "multicolumn-icon",
+      "blocks": {
+        "column_PnJ3NJ": {
+          "type": "column",
+          "settings": {
+            "icon": "chat",
+            "max_width": 28,
+            "max_width_mb": 28,
+            "title": "Customer Service",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "heading_font": "heading",
+            "text": "<p>M – F 8AM – 4PM CST</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_xNjRtG": {
+          "type": "column",
+          "settings": {
+            "icon": "phone",
+            "max_width": 28,
+            "max_width_mb": 28,
+            "title": "Call Us",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "heading_font": "heading",
+            "text": "<p>1-844-525-7300</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_69fN8n": {
+          "type": "column",
+          "settings": {
+            "icon": "paperplane",
+            "max_width": 28,
+            "max_width_mb": 28,
+            "title": "Get in Touch",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "heading_font": "heading",
+            "text": "<p><a href=\"mailto:ecommercesales@thinkdynamic.com\" title=\"mailto:ecommercesales@thinkdynamic.com\">ecommercesales@thinkdynamic.com</a></p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_ngN6XL": {
+          "type": "column",
+          "settings": {
+            "icon": "map-pin",
+            "max_width": 32,
+            "max_width_mb": 32,
+            "title": "Address",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "heading_font": "heading",
+            "text": "<p>N5549 County Rd Z, Onalaska, WI 54650</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "column_PnJ3NJ",
+        "column_xNjRtG",
+        "column_69fN8n",
+        "column_ngN6XL"
+      ],
+      "custom_css": [
+        ".rich-text__text {--text-margin-top: 0.4rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "header_layout": "vertical",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "button_icon": "none",
+        "enable_sticky": false,
+        "card_color_scheme": "",
+        "content_alignment": "left",
+        "image_position": "left",
+        "icon_color": "#233E86",
+        "section_background_color": "",
+        "column_background_color": "",
+        "column_heading_color": "",
+        "column_text_color": "",
+        "column_link_color": "",
+        "columns_desktop": 4,
+        "column_gap": "large",
+        "row_gap": "inherit",
+        "show_divider_col": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "image_text_ePDz7m": {
+          "type": "image_text",
+          "settings": {
+            "block_width": 50,
+            "layout": "image_top",
+            "heading": "",
+            "heading_size": "h6",
+            "image": "shopify://shop_images/Dynamic_IT_Hardware_Logo_-_Placeholder_1.png",
+            "image_width": 250,
+            "image_width_mobile": 250,
+            "overlay_opacity": 70,
+            "text": "<p>Dynamic IT Hardware is your trusted source for quality refurbished and new IT equipment. We offer a wide range of laptops, desktops, smartphones, tablets, servers, and accessories — helping businesses and individuals get the technology they need at the right price.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "color_scheme": "scheme-2",
+            "content_alignment": "left",
+            "open_default": false,
+            "show_divider": false
+          }
+        },
+        "newsletter_3qCrWc": {
+          "type": "newsletter",
+          "disabled": true,
+          "settings": {
+            "block_width": 55,
+            "heading": "Join Our Newsletter",
+            "heading_size": "h3",
+            "newsletter_description": "<p>Sign up to our newsletter & receive 10% off your first order.</p>",
+            "newsletter_term": "<p>By subscribing you agree to the <a href=\"/policies/terms-of-service\" title=\"Terms of Service\">Terms of Services</a>  and  <a href=\"/policies/privacy-policy\" title=\"Privacy Policy\">Privacy Policy.</a></p>",
+            "newsletter_text_alignment": "left",
+            "form_width": 465,
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "order_first": true
+          }
+        },
+        "menu_DEKGYP": {
+          "type": "menu",
+          "settings": {
+            "block_width": 35,
+            "heading": "SHOP",
+            "heading_size": "h4",
+            "menu": "shop",
+            "show_sperator_columns": true,
+            "open_default": false,
+            "show_divider": false
+          }
+        },
+        "menu_6cjHfA": {
+          "type": "menu",
+          "settings": {
+            "block_width": 15,
+            "heading": "COMPANY",
+            "heading_size": "h4",
+            "menu": "company",
+            "show_sperator_columns": false,
+            "open_default": false,
+            "show_divider": false
+          }
+        }
+      },
+      "block_order": [
+        "image_text_ePDz7m",
+        "newsletter_3qCrWc",
+        "menu_DEKGYP",
+        "menu_6cjHfA"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-2",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "social_button_style": "btn--icon",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "footer_layout": "standard",
+        "footer_bottom_menu": "footer-legal",
+        "show_sperator_line": false,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 34,
+        "padding_bottom": 38
+      }
+    },
+    "mobile_sticky_bar_aYhgJK": {
+      "type": "mobile-sticky-bar",
+      "blocks": {
+        "home_AP8mmy": {
+          "type": "home",
+          "settings": {
+            "text": "Home"
+          }
+        },
+        "cart_gnnwxQ": {
+          "type": "cart",
+          "settings": {
+            "text": "Cart"
+          }
+        },
+        "products_eYYkE8": {
+          "type": "products",
+          "settings": {
+            "text": "Products",
+            "collection": ""
+          }
+        },
+        "link_mJ6QMc": {
+          "type": "link",
+          "settings": {
+            "text": "About",
+            "url": "",
+            "icon": "map-pin"
+          }
+        }
+      },
+      "block_order": [
+        "home_AP8mmy",
+        "cart_gnnwxQ",
+        "products_eYYkE8",
+        "link_mJ6QMc"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_sticky_bar": true,
+        "show_text": true
+      }
+    }
+  },
+  "order": [
+    "multicolumn_icon_rTKNUF",
+    "footer",
+    "mobile_sticky_bar_aYhgJK"
+  ]
+}

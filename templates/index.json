@@ -1,0 +1,1077 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection_list_slider_6qbNfj": {
+      "type": "collection-list-slider",
+      "blocks": {
+        "featured_collection_GW3kAL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "laptops",
+            "image": "shopify://shop_images/Container_5.png",
+            "title": "Laptops"
+          }
+        },
+        "featured_collection_g9Kr3n": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "desktops",
+            "image": "shopify://shop_images/Container_4.png",
+            "title": "Desktops"
+          }
+        },
+        "featured_collection_J6V8fx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "smartphones",
+            "image": "shopify://shop_images/Container_3.png",
+            "title": "Smartphones"
+          }
+        },
+        "featured_collection_NkFYeg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tablets",
+            "image": "shopify://shop_images/Container_2.png",
+            "title": "Tablets"
+          }
+        },
+        "featured_collection_eBphH3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gaming",
+            "image": "shopify://shop_images/Container.png",
+            "title": "Gaming"
+          }
+        },
+        "featured_collection_mFCdUY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "servers-networking",
+            "image": "shopify://shop_images/Container_1.png",
+            "title": "Servers/Networking"
+          }
+        },
+        "featured_collection_acc001": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accessories",
+            "image": "",
+            "title": "Accessories"
+          }
+        },
+        "featured_collection_hlt001": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "healthcare",
+            "image": "",
+            "title": "Healthcare"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_GW3kAL",
+        "featured_collection_g9Kr3n",
+        "featured_collection_J6V8fx",
+        "featured_collection_NkFYeg",
+        "featured_collection_eBphH3",
+        "featured_collection_mFCdUY",
+        "featured_collection_acc001",
+        "featured_collection_hlt001"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-1",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h5",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "button_icon": "none",
+        "card_color_scheme": "scheme-1",
+        "card_style": "standard",
+        "card_heading_size": "h6",
+        "card_image_ratio": "adapt",
+        "card_image_width": "medium",
+        "card_image_padding": "none",
+        "rounded_card_image": true,
+        "mobile_layout": "vertical",
+        "carousel_item_size": "auto",
+        "desktop_alignment": "center",
+        "columns_desktop": 8,
+        "carousel_control_color_scheme": "",
+        "padding_top": 18,
+        "padding_bottom": 20,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "slideshow_q3U4Jn": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_JhU8hg": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "background": "shopify://shop_images/A_spot.png",
+            "background_mobile": "shopify://shop_images/Container_eb27d50f-6341-4601-a04b-3076e8778919.png",
+            "image_overlay_opacity": 30,
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "subheading": "Looking for an upgrade?",
+            "title": "Verified Quality and Value.",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "hd2",
+            "description": "<p>The smart and sustainable way to upgrade your tech.</p>",
+            "description_size": "text-lg",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/all",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "enable_preload_image": true
+          }
+        },
+        "slide_txU4p7": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "background": "shopify://shop_images/A_spot.png",
+            "background_mobile": "shopify://shop_images/Container_eb27d50f-6341-4601-a04b-3076e8778919.png",
+            "image_overlay_opacity": 30,
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "subheading": "Top Deals Every Day",
+            "title": "Save More on Top Tech Brands",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "hd2",
+            "description": "<p>Exclusive deals on laptops, desktops, phones and more.</p>",
+            "description_size": "text-lg",
+            "button_label": "Shop Deals",
+            "button_link": "shopify://collections/deals",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "enable_preload_image": false
+          }
+        },
+        "slide_nLx3pF": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "background": "shopify://shop_images/A_spot.png",
+            "image_overlay_opacity": 30,
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "subheading": "Business & Enterprise",
+            "title": "Bulk Deals for Your Organisation",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "hd2",
+            "description": "<p>Volume pricing on certified refurbished and new IT hardware.</p>",
+            "description_size": "text-lg",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/bulk-deals",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "enable_preload_image": false
+          }
+        }
+      },
+      "block_order": [
+        "slide_JhU8hg",
+        "slide_txU4p7",
+        "slide_nLx3pF",
+        "slide_KdFRHd"
+      ],
+      "settings": {
+        "container": "fixed",
+        "slide_height": "small",
+        "show_controls": true,
+        "autoplay": true,
+        "autoplay_delay": 6,
+        "show_text_below": true,
+        "text_alignment_mobile": "left",
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "scrolling_promotion_rCXbYx": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "image_3yNnDA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/747_1_1_fb069ec7-a8d3-4cb9-88ae-1263e0d705ef.png",
+            "image_height": 40,
+            "image_rounded": false,
+            "image_text": "Apple",
+            "image_position": true,
+            "image_link": "shopify://collections/apple",
+            "image_height_mobile": 40
+          }
+        },
+        "image_kUEBL4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Dell_Logo.svg_1.png",
+            "image_height": 40,
+            "image_rounded": false,
+            "image_text": "Dell",
+            "image_position": true,
+            "image_link": "shopify://collections/dell",
+            "image_height_mobile": 40
+          }
+        },
+        "image_D46wAY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Google__G__logo.svg_1.png",
+            "image_height": 40,
+            "image_rounded": false,
+            "image_text": "Google",
+            "image_position": true,
+            "image_link": "shopify://collections",
+            "image_height_mobile": 40
+          }
+        },
+        "image_rUWUEL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/samsung_1_1.png",
+            "image_height": 40,
+            "image_rounded": false,
+            "image_text": "Samsung",
+            "image_position": true,
+            "image_link": "shopify://collections",
+            "image_height_mobile": 40
+          }
+        },
+        "image_NTXc9i": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Vector_2.png",
+            "image_height": 40,
+            "image_rounded": false,
+            "image_text": "HP",
+            "image_position": true,
+            "image_link": "shopify://collections/hp-laptops",
+            "image_height_mobile": 40
+          }
+        },
+        "image_URbjph": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Lenovo-Logo-PNG-File_1.png",
+            "image_height": 40,
+            "image_rounded": false,
+            "image_text": "Lenovo",
+            "image_position": true,
+            "image_link": "shopify://collections/lenovo",
+            "image_height_mobile": 40
+          }
+        }
+      },
+      "block_order": [
+        "image_3yNnDA",
+        "image_kUEBL4",
+        "image_D46wAY",
+        "image_rUWUEL",
+        "image_NTXc9i",
+        "image_URbjph"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "direction": "left",
+        "pause_on_hover": true,
+        "speed": 0.3,
+        "h_spacing": 14,
+        "show_section_divider": false,
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_bdaamt": {
+      "type": "featured-collection",
+      "blocks": {
+        "collection_E83rKg": {
+          "type": "collection",
+          "settings": {
+            "collection": "best-sellers",
+            "title": "Hot Items",
+            "show_banner": true,
+            "color_scheme": "scheme-inverse",
+            "card_link": "shopify://collections/best-sellers",
+            "banner_image": "shopify://shop_images/938d7124384625736b388c2159f90f3545291d09.jpg",
+            "image_overlay_opacity": 30,
+            "content_position": "split-bottom-button",
+            "content_alignment": "left",
+            "subheading": "Best Sellers",
+            "subheading_style": "",
+            "heading": "Our most wanted tech",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h2",
+            "heading_size_mobile": "inherit",
+            "heading_size_custom": 18,
+            "description": "",
+            "text_size": "text-base",
+            "button_label": "Shop Now",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "collection_E83rKg"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "left",
+        "subheading": "",
+        "heading": "Bestsellers",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h3",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "button_icon": "none",
+        "limit": 7,
+        "columns": 5,
+        "column_gap": "medium",
+        "row_gap": "large",
+        "enable_slider": true,
+        "content_overflow": true,
+        "navigation_position": "bottom",
+        "pcard_image_ratio": "3/4",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "show_progress_bar": true,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "collection_tabs_JdJ3Ry": {
+      "type": "collection-tabs",
+      "blocks": {
+        "collection_jgmLCc": {
+          "type": "collection",
+          "settings": {
+            "collection": "refurbished",
+            "image": "shopify://shop_images/Frame_1000004437_4.png",
+            "title": "Refurbished",
+            "text": "<p>Verified quality at a fraction of the cost. Sustainable tech you can trust.</p>",
+            "button_label": "Shop Collection",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        },
+        "collection_3qahfU": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-products",
+            "image": "shopify://shop_images/Frame_1000004437_5.png",
+            "title": "New",
+            "text": "<p>Brand new devices. Upgrade without compromise.</p>",
+            "button_label": "Shop Collection",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "collection_jgmLCc",
+        "collection_3qahfU"
+      ],
+      "name": "t:sections.collection-tabs.name",
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-14",
+        "heading": "Shop By Collections",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h5",
+        "image_position": "right",
+        "image_ratio": "adapt",
+        "collection_heading_size": "h1",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "featured_collection_fFyUD8": {
+      "type": "featured-collection",
+      "blocks": {
+        "collection_rRCUpU": {
+          "type": "collection",
+          "settings": {
+            "collection": "deals",
+            "title": "Hot Items",
+            "show_banner": true,
+            "color_scheme": "scheme-inverse",
+            "card_link": "shopify://collections/deals",
+            "banner_image": "shopify://shop_images/938d7124384625736b388c2159f90f3545291d09.jpg",
+            "image_overlay_opacity": 30,
+            "content_position": "split-bottom-button",
+            "content_alignment": "left",
+            "subheading": "Top Deals",
+            "subheading_style": "",
+            "heading": "Top Deals",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h2",
+            "heading_size_mobile": "inherit",
+            "heading_size_custom": 18,
+            "description": "",
+            "text_size": "text-base",
+            "button_label": "Shop Now",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "collection_rRCUpU"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Top Deals",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h3",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "button_icon": "none",
+        "limit": 7,
+        "columns": 5,
+        "column_gap": "medium",
+        "row_gap": "large",
+        "enable_slider": true,
+        "content_overflow": true,
+        "navigation_position": "bottom",
+        "pcard_image_ratio": "3/4",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "show_progress_bar": true,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "image_with_text_aXhRxw": {
+      "type": "image-with-text",
+      "blocks": {
+        "badge_fQjMHW": {
+          "type": "badge",
+          "settings": {
+            "color_scheme": "scheme-758f9583-ae73-4220-8617-624caaf937ad",
+            "text": "Dependable Affordabl Sustainable",
+            "image": "shopify://shop_images/Isolation_Mode.png",
+            "position_mobile": "right"
+          }
+        },
+        "subheading_8kBXjM": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Dynamic Lifecycle Innovations"
+          }
+        },
+        "heading_jnb9cP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Simplify IT Asset Disposition with confidence",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3"
+          }
+        },
+        "text_4pYVYF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dynamic Lifecycle Innovations specializes in secure, sustainable IT asset disposition (ITAD) services. Whether you're decommissioning data centers or retrieving remote devices, Dynamic builds solutions around your workflows, compliance requirements, and sustainability initiatives. Dynamic works closely with you to maximize value, minimize risk, and give electronics their next best life.</p>",
+            "subtext_color": true
+          }
+        },
+        "button_aegkDr": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "https://thinkdynamic.com",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "badge_fQjMHW",
+        "subheading_8kBXjM",
+        "heading_jnb9cP",
+        "text_4pYVYF",
+        "button_aegkDr"
+      ],
+      "custom_css": [
+        ".image-with-text__content {max-width: 45rem; --text-margin-top: 2rem;}",
+        "@media (min-width: 1280px) {.image-with-text__media {padding-inline-start: 5rem; }}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-14",
+        "image": "shopify://shop_images/Frame_1000004437_3.png",
+        "image_position": "left",
+        "image_width": 50,
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "inherit",
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "custom_content_D8DECi": {
+      "type": "custom-content",
+      "name": "t:sections.custom-content.name",
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-10",
+        "enable_sticky_column": false,
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Certified. Trusted. Compliant.",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h3",
+        "description": "<p>Dynamic is certified by leading industry bodies, ensuring our processes meet the highest standards for data security, environmental responsibility, and regulatory compliance.</p>",
+        "text_size": "text-base",
+        "column_gap": "medium",
+        "row_gap": "large",
+        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "scrolling_promotion_Bd4GPU": {
+      "type": "scrolling-promotion",
+      "custom_css": [
+        "{ background-color: #F3F3F3; }"
+      ],
+      "blocks": {
+        "image_PFe3PP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/estewardslogo_CMYK_icononly.png",
+            "image_height": 100,
+            "image_rounded": false,
+            "image_text": "",
+            "image_position": false,
+            "image_link": "",
+            "image_height_mobile": 80
+          }
+        },
+        "image_rUrKwh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/R2v3_ai.png",
+            "image_height": 100,
+            "image_rounded": false,
+            "image_text": "",
+            "image_position": false,
+            "image_link": "",
+            "image_height_mobile": 80
+          }
+        },
+        "image_fMLh3B": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/21972-312_SOC_NonCPA.png",
+            "image_height": 100,
+            "image_rounded": false,
+            "image_text": "",
+            "image_position": false,
+            "image_link": "",
+            "image_height_mobile": 80
+          }
+        },
+        "image_6xeYfg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ISO-27001-certification-RGB.png",
+            "image_height": 100,
+            "image_rounded": false,
+            "image_text": "",
+            "image_position": false,
+            "image_link": "",
+            "image_height_mobile": 80
+          }
+        },
+        "image_KBHnrj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ISO-9001-certification-RGB.png",
+            "image_height": 100,
+            "image_rounded": false,
+            "image_text": "",
+            "image_position": false,
+            "image_link": "",
+            "image_height_mobile": 80
+          }
+        },
+        "image_FK9ayg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ISO-14001-certification-RGB.png",
+            "image_height": 100,
+            "image_rounded": false,
+            "image_text": "",
+            "image_position": false,
+            "image_link": "",
+            "image_height_mobile": 80
+          }
+        },
+        "image_TRdFKV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ISO-45001-certification-RGB.png",
+            "image_height": 100,
+            "image_rounded": false,
+            "image_text": "",
+            "image_position": false,
+            "image_link": "",
+            "image_height_mobile": 80
+          }
+        },
+        "image_cgY7Gc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ITAR_Logo_RGB.png",
+            "image_height": 100,
+            "image_rounded": false,
+            "image_text": "",
+            "image_position": false,
+            "image_link": "",
+            "image_height_mobile": 80
+          }
+        }
+      },
+      "block_order": [
+        "image_PFe3PP",
+        "image_rUrKwh",
+        "image_fMLh3B",
+        "image_6xeYfg",
+        "image_KBHnrj",
+        "image_FK9ayg",
+        "image_TRdFKV",
+        "image_cgY7Gc"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "direction": "left",
+        "pause_on_hover": true,
+        "speed": 0.3,
+        "h_spacing": 40,
+        "show_section_divider": false,
+        "padding_top": 30,
+        "padding_bottom": 0
+      }
+    },
+    "custom_content_TzQftQ": {
+      "type": "custom-content",
+      "blocks": {
+        "image_card_DRGaPH": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-84dce63f-17fc-4600-9b22-831a89218e4d",
+            "image": "shopify://shop_images/Frame_1000004461.png",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "content_position": "middle-left",
+            "content_alignment": "left",
+            "content_spacing": "small",
+            "content_gap": "fitted",
+            "card_link": "shopify://collections/laptop",
+            "subheading": "",
+            "subheading_style": "",
+            "heading": "Laptops",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3",
+            "heading_size_mobile": "inherit",
+            "heading_size_custom": 18,
+            "description": "<p>Upgrade Your Everyday.</p>",
+            "button_label": "Shop Now",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "show_badge": false,
+            "badge_color_scheme": "scheme-1",
+            "badge_shape": "circle",
+            "badge_position": "top-right",
+            "badge_subtext": "Save",
+            "badge_text": "99$",
+            "color_scheme_mobile": "scheme-1",
+            "show_text_below": true,
+            "content_alignment_mobile": "left",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": "",
+            "enable_preload_image": false
+          }
+        },
+        "image_card_C7gBVQ": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-84dce63f-17fc-4600-9b22-831a89218e4d",
+            "image": "shopify://shop_images/Frame_1000004444.png",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "content_position": "middle-left",
+            "content_alignment": "left",
+            "content_spacing": "small",
+            "content_gap": "fitted",
+            "card_link": "shopify://collections/smart-phones",
+            "subheading": "",
+            "subheading_style": "",
+            "heading": "Smartphones",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3",
+            "heading_size_mobile": "inherit",
+            "heading_size_custom": 18,
+            "description": "<p>Your Next Phone Starts Here</p>",
+            "button_label": "Shop Now",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "show_badge": false,
+            "badge_color_scheme": "scheme-1",
+            "badge_shape": "circle",
+            "badge_position": "top-right",
+            "badge_subtext": "Save",
+            "badge_text": "99$",
+            "color_scheme_mobile": "scheme-1",
+            "show_text_below": true,
+            "content_alignment_mobile": "left",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": "",
+            "enable_preload_image": false
+          }
+        }
+      },
+      "block_order": [
+        "image_card_DRGaPH",
+        "image_card_C7gBVQ"
+      ],
+      "name": "t:sections.custom-content.name",
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-1",
+        "enable_sticky_column": false,
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "column_gap": "medium",
+        "row_gap": "large",
+        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "testimonials_mLThk7": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_EtxFFg": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "heading": "Testimonials",
+            "text": "<h4>“Shipping was done very quickly. My package was secure and undamaged. The printer was exactly as described. For the money that I spent it was well worth the value. I would definitely recommend Dynamic IT Hardware.”</h4>",
+            "author": "",
+            "bio": "",
+            "product": ""
+          }
+        },
+        "testimonial_PAEYV9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "heading": "Testimonials",
+            "text": "<h4>“Great item, fast shipping, thanks!!<br/>A++”</h4>",
+            "author": "",
+            "bio": "",
+            "product": ""
+          }
+        },
+        "testimonial_rNdzXC": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "heading": "Testimonials",
+            "text": "<h4>“The radio was packed well and shipped promptly. The condition is as described. I'm happy.”</h4>",
+            "author": "",
+            "bio": "",
+            "product": ""
+          }
+        },
+        "testimonial_zYjwLa": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "heading": "Testimonials",
+            "text": "<h4>“Quality, cosmetic appearance and condition exceeded expectations. Super quick shipping, good communication, and a discount coupon. Excellent!”</h4>",
+            "author": "",
+            "bio": "",
+            "product": ""
+          }
+        },
+        "testimonial_KUrHEd": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "heading": "Testimonials",
+            "text": "<h4>“Excellent seller! The iPhone is in great condition, exactly as described. The quality is very good, it was well packaged, and the delivery was smooth and on time. The price was also fair. Very satisfied with the purchase!”</h4>",
+            "author": "",
+            "bio": "",
+            "product": ""
+          }
+        },
+        "testimonial_aqeixa": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "heading": "Testimonials",
+            "text": "<h4>“The iPad was even better than anticipated. It was better than the condition I paid for. It looked almost brand new. I’m extremely happy with my purchase.”</h4>",
+            "author": "",
+            "bio": "",
+            "product": ""
+          }
+        },
+        "testimonial_naNBJB": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "heading": "Testimonials",
+            "text": "<h4>“Item arrived quickly. Packaging was professional and safe. Price point was more than fair and exactly what I was looking for. Item was in near perfect condition and reflects care taken in cleaning and listing item”</h4>",
+            "author": "",
+            "bio": "",
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_EtxFFg",
+        "testimonial_PAEYV9",
+        "testimonial_rNdzXC",
+        "testimonial_zYjwLa",
+        "testimonial_KUrHEd",
+        "testimonial_aqeixa",
+        "testimonial_naNBJB"
+      ],
+      "custom_css": [
+        ".testimonial__inner {max-width: 64rem; margin-left: auto; margin-right: auto;}"
+      ],
+      "settings": {
+        "container": "full",
+        "color_scheme": "scheme-758f9583-ae73-4220-8617-624caaf937ad",
+        "enable_color_scheme": true,
+        "bg_color": "linear-gradient(131.21deg, rgba(116, 191, 69, 1) -33.37%, rgba(42, 97, 143, 1) 76.31%)",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "What Clients Talk About Us",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h3",
+        "description": "",
+        "text_size": "text-base",
+        "layout": "focused",
+        "card_color_scheme": "scheme-84dce63f-17fc-4600-9b22-831a89218e4d",
+        "card_content_color_scheme": "",
+        "card_image_ratio": "adapt",
+        "card_heading_size": "h4",
+        "card_text_size": "h2",
+        "author_info_layout": "vertical",
+        "card_trigger_behavior": "click",
+        "show_image": false,
+        "show_author_image": false,
+        "columns_desktop": 2,
+        "column_gap": "medium",
+        "row_gap": "medium",
+        "enable_slider": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_progress_bar": true,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "multicolumn_support_s001": {
+      "type": "multicolumn-icon",
+      "blocks": {
+        "col_hours_s001": {
+          "type": "column",
+          "settings": {
+            "icon": "clock",
+            "title": "Customer Service",
+            "text": "<p>Monday – Friday<br/>9:00 AM – 6:00 PM CST</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "col_phone_s001": {
+          "type": "column",
+          "settings": {
+            "icon": "phone",
+            "title": "Call Us",
+            "text": "<p>+1 (000) 000-0000</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "col_email_s001": {
+          "type": "column",
+          "settings": {
+            "icon": "paperplane",
+            "title": "Email Us",
+            "text": "<p>support@dynamicithardware.com</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "col_address_s001": {
+          "type": "column",
+          "settings": {
+            "icon": "location",
+            "title": "Our Location",
+            "text": "<p>Address line 1<br/>City, State, ZIP</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "col_hours_s001",
+        "col_phone_s001",
+        "col_email_s001",
+        "col_address_s001"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-1",
+        "section_header_alignment": "center",
+        "heading": "We're Here to Help",
+        "heading_size": "h3",
+        "description": "",
+        "content_alignment": "center",
+        "image_position": "top",
+        "icon_color": "#233E86",
+        "columns_desktop": 4,
+        "column_gap": "large",
+        "show_divider_col": false,
+        "columns_mobile": "2",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    }
+  },
+  "order": [
+    "collection_list_slider_6qbNfj",
+    "slideshow_q3U4Jn",
+    "scrolling_promotion_rCXbYx",
+    "featured_collection_bdaamt",
+    "collection_tabs_JdJ3Ry",
+    "featured_collection_fFyUD8",
+    "image_with_text_aXhRxw",
+    "custom_content_D8DECi",
+    "scrolling_promotion_Bd4GPU",
+    "custom_content_TzQftQ",
+    "testimonials_mLThk7",
+    "multicolumn_support_s001"
+  ]
+}

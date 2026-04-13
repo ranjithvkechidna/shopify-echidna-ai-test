@@ -1,0 +1,79 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "container": "fixed",
+        "text_alignment": "center",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_yJQnPD": {
+      "type": "image-with-text",
+      "blocks": {
+        "badge_pjpBCK": {
+          "type": "badge",
+          "settings": {
+            "color_scheme": "scheme-758f9583-ae73-4220-8617-624caaf937ad",
+            "text": "Dependable Affordabl Sustainable",
+            "image": "shopify://shop_images/Isolation_Mode.png",
+            "position_mobile": "right"
+          }
+        },
+        "heading_gkrBAe": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "hd2"
+          }
+        },
+        "text_iahQNi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dynamic IT Hardware sales is a part of Dynamic Lifecycle Innovations. We are the expert, transparent and reliable resource you need to get the right IT hardware solutions for your needs.<br/><br/>Dynamic IT Hardware is a stocking re-seller of new, used and professionally refurbished laptops, desktops, cell phones, tablets, hard drives, RAM, and much more.<br/><br/><strong>All of our items are Tested for Key Functions, in alignment with the R2v3 REC Categories.</strong><br/><br/>Please recycle your electronics responsibly.</p>",
+            "subtext_color": true
+          }
+        }
+      },
+      "block_order": [
+        "badge_pjpBCK",
+        "heading_gkrBAe",
+        "text_iahQNi"
+      ],
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-9f4ecb81-07de-4665-95b9-bae4e779a098",
+        "image": "shopify://shop_images/about-us_139435d7-c0f5-4130-80b4-8c7db7f4c75e.png",
+        "image_position": "left",
+        "image_width": 50,
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "inherit",
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_yJQnPD"
+  ]
+}

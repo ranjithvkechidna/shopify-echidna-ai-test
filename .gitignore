@@ -1,0 +1,25 @@
+# Shopify Theme
+.DS_Store
+*.orig
+
+# Local only
+requirements/
+memory/
+
+# Python scripts (used for one-time store setup tasks)
+*.py
+
+# Node (if any build tools are used)
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnp
+.pnp.js
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Shopify CLI
+.shopify/

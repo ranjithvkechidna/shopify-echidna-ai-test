@@ -1,0 +1,47 @@
+name: Deploy Theme to Shopify
+
+# Triggers when a PR is merged (closed) into main
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Deploy Theme to Shopify Store
+    runs-on: ubuntu-latest
+    # Only run when the PR was actually merged, not just closed
+    if: github.event.pull_request.merged == true
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Shopify CLI
+        run: npm install -g @shopify/cli@latest
+
+      - name: Deploy theme to Shopify
+        env:
+          # Theme Access password — create at Shopify Admin → Apps → Theme Access
+          # Store the value in GitHub → Settings → Secrets → SHOPIFY_CLI_THEME_TOKEN
+          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
+          SHOPIFY_FLAG_STORE: ${{ secrets.SHOPIFY_FLAG_STORE }}
+        run: |
+          shopify theme push \
+            --theme "${{ secrets.SHOPIFY_THEME_ID }}" \
+            --allow-live
+
+# ---------------------------------------------------------------------------
+# Required GitHub repository secrets (Settings → Secrets and variables → Actions):
+#
+#   SHOPIFY_FLAG_STORE    — Store domain, e.g. echidna-ai-test2.myshopify.com
+#   SHOPIFY_CLI_THEME_TOKEN — Theme Access password from Shopify Admin
+#   SHOPIFY_THEME_ID      — Numeric ID of the live theme to deploy to
+#                           Find it via: shopify theme list
+# ---------------------------------------------------------------------------

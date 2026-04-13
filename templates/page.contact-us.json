@@ -1,0 +1,69 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "container": "fixed",
+        "text_alignment": "center",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_yQ3a6C": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_f9CGEN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact Us",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "hd2"
+          }
+        },
+        "text_BtBLzU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you have questions, comments, concerns, or compliments, please feel free to contact us at any time. A Dynamic Lifecycle Innovations professional will return your call or email as soon as possible.</p><p><strong>Call Us</strong><br/>Toll Free: 844-525-7300</p><p><strong>Email Us</strong><br/><a href=\"mailto:ecommercesales@thinkdynamic.com\" title=\"mailto:ecommercesales@thinkdynamic.com\">ecommercesales@thinkdynamic.com</a></p><p><strong>Office Hours</strong><br/>Monday-Friday, 8am to 4pm</p>",
+            "subtext_color": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_f9CGEN",
+        "text_BtBLzU"
+      ],
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-9f4ecb81-07de-4665-95b9-bae4e779a098",
+        "image": "shopify://shop_images/4V7A7043.jpg",
+        "image_position": "left",
+        "image_width": 50,
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "inherit",
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_yQ3a6C"
+  ]
+}

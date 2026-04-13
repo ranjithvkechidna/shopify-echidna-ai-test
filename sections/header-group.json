@@ -1,0 +1,154 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "topbar_3YD96h": {
+      "type": "topbar",
+      "blocks": {
+        "text_ifXVEd": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping on Orders Over $500!",
+            "position": "center",
+            "highlight_text": "",
+            "highlight_text_style": "button",
+            "highlight_text_color": "",
+            "highlight_text_background_color": ""
+          }
+        },
+        "link_list_En8dpz": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "menu": "main-menu",
+            "position": "left"
+          }
+        },
+        "language_country_MyFf6D": {
+          "type": "language_country",
+          "disabled": true,
+          "settings": {
+            "show_language_selector": true,
+            "show_country_selector": true,
+            "position": "right"
+          }
+        },
+        "social_links_BcFqP9": {
+          "type": "social_links",
+          "disabled": true,
+          "settings": {
+            "show_facebook": true,
+            "show_instagram": true,
+            "show_twitter": true,
+            "show_tiktok": true,
+            "show_pinterest": false,
+            "show_snapchat": false,
+            "show_tumblr": false,
+            "show_youtube": true,
+            "show_vimeo": false,
+            "position": "right"
+          }
+        }
+      },
+      "block_order": [
+        "text_ifXVEd",
+        "link_list_En8dpz",
+        "language_country_MyFf6D",
+        "social_links_BcFqP9"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-2",
+        "show_separator_line": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "hightlight_link_eGTHHK": {
+          "type": "hightlight_link",
+          "settings": {
+            "hl_link_title": "Deals",
+            "hl_link_style": "text_color",
+            "hl_link_color": "#c22326"
+          }
+        },
+        "custom_card_CpJYyU": {
+          "type": "custom_card",
+          "settings": {
+            "menu_title": "Shop by Categories",
+            "menu_columns": 5,
+            "enable_hl_link": false,
+            "hl_link_style": "text_color",
+            "hl_link_color": "",
+            "promotions_width": 38,
+            "promotion_columns": 1,
+            "heading_1": "",
+            "heading_size_1": "h5",
+            "description_1": "",
+            "promotion_link_1": "",
+            "heading_2": "",
+            "heading_size_2": "h5",
+            "description_2": "",
+            "promotion_link_2": "",
+            "heading_3": "",
+            "heading_size_3": "h5",
+            "description_3": "",
+            "promotion_link_3": "",
+            "heading_4": "",
+            "heading_size_4": "h5",
+            "description_4": "",
+            "promotion_link_4": "",
+            "heading_5": "",
+            "heading_size_5": "h5",
+            "description_5": "",
+            "promotion_link_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "hightlight_link_eGTHHK",
+        "custom_card_CpJYyU"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-1",
+        "menu": "header-main-menu",
+        "menu_mobile": "header-main-menu",
+        "header_layout": "logo-left",
+        "menu_trigger": "hover",
+        "sticky_header": "always",
+        "enable_collapse_on_scroll": false,
+        "show_sperator_line": true,
+        "customer_account_style": "icon-with-text",
+        "show_social_media_icons": true,
+        "enable_language_selector": false,
+        "enable_country_selector": false,
+        "header_top_padding_top": 20,
+        "header_top_padding_bottom": 20,
+        "navigation_color_scheme": "",
+        "navigation_content_alignment": "start",
+        "navigation_padding_top": 0,
+        "navigation_padding_bottom": 12,
+        "menu_highlight_titles": "",
+        "menu_highlight_color": "#000000"
+      }
+    }
+  },
+  "order": [
+    "topbar_3YD96h",
+    "header"
+  ]
+}

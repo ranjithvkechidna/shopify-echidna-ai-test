@@ -1,0 +1,879 @@
+{
+  "sections": {
+    "breadcrumbs_DgnWDV": {
+      "type": "breadcrumbs",
+      "settings": {
+        "container": "fixed",
+        "text_alignment": "start",
+        "padding_top": 16,
+        "padding_bottom": 20
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "container": "fixed",
+        "text_alignment": "center",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_overlay_3FrkpM": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_MEEHjQ": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "What We Made"
+          }
+        },
+        "heading_W8mPfG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Elegant Design Conceals",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "hd1"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_MEEHjQ",
+        "heading_W8mPfG"
+      ],
+      "custom_css": [
+        ".rich-text {max-width: 52rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "desktop_height": "medium",
+        "overlay_opacity": 30,
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "color_scheme": "",
+        "content_position": "top-left",
+        "content_alignment": "left",
+        "mobile_height": "adapt",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "enable_preload_image": true
+      }
+    },
+    "rich_text_kyFd96": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Y9MMVQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are committed to breaking the unhealthy throw-away culture around furniture.",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_7h6LaE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our need for new furniture and good design, supporting daily needs, will continue to evolve, as our lifestyle changes. We shouldn’t stop improving our everyday lives and design new furniture. Instead, we ought to produce, distribute and consume differently – with greater care. ⁠Good design must continue to bring joy and presence. We aim to clearly explain the efforts we make to help you live sustainably.</p>",
+            "text_size": "text-base",
+            "text_line_limit": "none",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Y9MMVQ",
+        "text_7h6LaE"
+      ],
+      "custom_css": [
+        ".rich-text {max-width: 78rem; margin: 0 auto;}",
+        "@media (max-width: 1023px) {.rich-text__heading {max-width: 50rem; margin: 0 auto; }}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "use_color_scheme_in_container": false,
+        "content_spacing": "standard",
+        "content_alignment": "center",
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "image_with_text_eUKGwj": {
+      "type": "image-with-text",
+      "blocks": {
+        "badge_AdmYNg": {
+          "type": "badge",
+          "settings": {
+            "color_scheme": "scheme-3",
+            "text": "garage - where design meets function -",
+            "position_mobile": "right"
+          }
+        },
+        "subheading_t37PND": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Sustainably"
+          }
+        },
+        "heading_yrtiRH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Eco System Design Principles",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "hd2"
+          }
+        },
+        "text_DycqGr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Eco System Design Principles reflect a deep commitment to sustainability, seamlessly integrating innovative practices with eco-conscious values. By prioritizing reduced environmental impact, we design products that deliver exceptional quality, functionality, and durability.</p>",
+            "subtext_color": true
+          }
+        }
+      },
+      "block_order": [
+        "badge_AdmYNg",
+        "subheading_t37PND",
+        "heading_yrtiRH",
+        "text_DycqGr"
+      ],
+      "custom_css": [
+        ".image-with-text__content {max-width: 52rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "image_position": "left",
+        "image_width": 50,
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "inherit",
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "buttons_with_icon_AgEzEN": {
+      "type": "buttons-with-icon",
+      "blocks": {
+        "button_item_NPDpma": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "All eco-certified",
+            "icon": "check"
+          }
+        },
+        "button_item_mrBjfX": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Product protection",
+            "icon": "check"
+          }
+        },
+        "button_item_dgkFBa": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Make it yours",
+            "icon": "check"
+          }
+        },
+        "button_item_7wMiwV": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Unique tailored",
+            "icon": "check"
+          }
+        }
+      },
+      "block_order": [
+        "button_item_NPDpma",
+        "button_item_mrBjfX",
+        "button_item_dgkFBa",
+        "button_item_7wMiwV"
+      ],
+      "custom_css": [
+        ".section__header {--header-padding-bottom: 2.4rem;}",
+        ".section__heading {max-width: 45rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-9",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "This approach resulted in the beautiful structure",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "item_alignment": "center",
+        "item_button_style": "btn--primary",
+        "item_button_font": "button",
+        "enable_slider": true,
+        "swipe_on_mobile": true,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_36XTkC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pa39WP": {
+          "type": "column",
+          "settings": {
+            "title": "Comfortable",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "text": "<p>Bow Chair is available in Natural or Black-stained Oak with full EU Ecolabel certification. </p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_WRPAwc": {
+          "type": "column",
+          "settings": {
+            "title": "Price transparency",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "text": "<p>Fair pricing ensures you know exactly what you’re paying for, with no hidden costs or markups.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_ikYHeg": {
+          "type": "column",
+          "settings": {
+            "title": "All eco-certified",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "text": "<p>All products consider a more holistic environmental impact and are designed for a longer lifetime in a way.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_bTbVtm": {
+          "type": "column",
+          "settings": {
+            "title": "Sustainability",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "text": "<p>Committed to sustainable practices, ethical sourcing, and reducing environmental impact.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "column_pa39WP",
+        "column_WRPAwc",
+        "column_ikYHeg",
+        "column_bTbVtm"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "button_icon": "none",
+        "content_alignment": "left",
+        "show_col_count": true,
+        "show_image": true,
+        "columns_desktop": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 40,
+        "padding_bottom": 60
+      }
+    },
+    "testimonials_M9PCcH": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_QWU6zQ": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "heading": "Testimonials",
+            "text": "<p>“We are different. We believe in transparency and recognised external certification.”</p>",
+            "author": "Jenny Wilson",
+            "bio": "CEO Garace"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_QWU6zQ"
+      ],
+      "custom_css": [
+        ".testimonial__content {max-width: 64rem; margin-left: auto; margin-right: auto;}"
+      ],
+      "settings": {
+        "container": "full",
+        "color_scheme": "scheme-3",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "layout": "focused",
+        "card_color_scheme": "scheme-3",
+        "card_content_color_scheme": "",
+        "card_image_ratio": "adapt",
+        "card_heading_size": "h4",
+        "card_text_size": "h1",
+        "author_info_layout": "vertical",
+        "card_trigger_behavior": "click",
+        "show_image": false,
+        "show_author_image": false,
+        "columns_desktop": 2,
+        "column_gap": "extra-large",
+        "row_gap": "medium",
+        "enable_slider": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_progress_bar": true,
+        "padding_top": 100,
+        "padding_bottom": 80,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "scrolling_promotion_6aUqmj": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "text_EWeYdP": {
+          "type": "text",
+          "settings": {
+            "text": "Lounge Chairs",
+            "text_size": "h2",
+            "text_opacity": 100,
+            "use_custom_color": true,
+            "custom_color": "#1d349a"
+          }
+        },
+        "image_WzBbmD": {
+          "type": "image",
+          "settings": {
+            "image_height": 72,
+            "image_rounded": false,
+            "image_height_mobile": 60
+          }
+        },
+        "text_baGGeL": {
+          "type": "text",
+          "settings": {
+            "text": "Bow Chairs",
+            "text_size": "h2",
+            "text_opacity": 100,
+            "use_custom_color": true,
+            "custom_color": "#1d349a"
+          }
+        },
+        "image_Ta48hW": {
+          "type": "image",
+          "settings": {
+            "image_height": 72,
+            "image_rounded": false,
+            "image_height_mobile": 60
+          }
+        },
+        "text_y3QPgp": {
+          "type": "text",
+          "settings": {
+            "text": "Cross Chair",
+            "text_size": "h2",
+            "text_opacity": 100,
+            "use_custom_color": true,
+            "custom_color": "#1d349a"
+          }
+        },
+        "image_TFNFGJ": {
+          "type": "image",
+          "settings": {
+            "image_height": 72,
+            "image_rounded": false,
+            "image_height_mobile": 60
+          }
+        }
+      },
+      "block_order": [
+        "text_EWeYdP",
+        "image_WzBbmD",
+        "text_baGGeL",
+        "image_Ta48hW",
+        "text_y3QPgp",
+        "image_TFNFGJ"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "direction": "left",
+        "pause_on_hover": true,
+        "speed": 0.3,
+        "h_spacing": 16,
+        "show_section_divider": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_DCXDtE": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_UMGpf8": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "All eco-certified"
+          }
+        },
+        "heading_BjfQbV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inspired to create a chair where the back",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "hd2"
+          }
+        },
+        "text_6eMjft": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Made entirely of oak, the Bow Chair is comfortable, visually pleasing and brimming with character.  The moulded plywood seat is unusually wide in proportion to its depth and a waterfall edge at the front softens contact with the hamstrings. </p>",
+            "subtext_color": true
+          }
+        },
+        "button_N7rQr3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_UMGpf8",
+        "heading_BjfQbV",
+        "text_6eMjft",
+        "button_N7rQr3"
+      ],
+      "custom_css": [
+        ".image-with-text__content {max-width: 52rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "image_position": "right",
+        "image_width": 50,
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "inherit",
+        "show_section_divider": true,
+        "divider_width": "full",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_NVWxEe": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gnmDqV": {
+          "type": "column",
+          "settings": {
+            "title": "Nicootitto",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "text": "<p>Founder/CEO</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_Lkgb3Y": {
+          "type": "column",
+          "settings": {
+            "title": "Jake Nakos",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "text": "<p>Designer</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_BDXeji": {
+          "type": "column",
+          "settings": {
+            "title": "Diana Simun",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "text": "<p>Designer</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_yqztdq": {
+          "type": "column",
+          "settings": {
+            "title": "Quaid Lagan",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "text": "<p>Marketer</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "column_gnmDqV",
+        "column_Lkgb3Y",
+        "column_BDXeji",
+        "column_yqztdq"
+      ],
+      "custom_css": [
+        ".rich-text--tight {--text-margin-top: 0.8rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Meet Our Team",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "button_icon": "none",
+        "content_alignment": "left",
+        "show_col_count": false,
+        "show_image": true,
+        "columns_desktop": 4,
+        "column_gap": "medium",
+        "row_gap": "large",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "collapsible_tabs_MyaBhj": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "image_card_7YixwV": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "desktop_image_position": "left",
+            "image_width": 40,
+            "alignment": "center",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 30,
+            "content_position": "top-center",
+            "content_alignment": "center",
+            "content_spacing": "medium",
+            "content_gap": "fitted",
+            "subheading": "",
+            "subheading_style": "",
+            "heading": "Still need help?",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h2",
+            "heading_size_mobile": "inherit",
+            "heading_size_custom": 18,
+            "description": "<p>Shoot our team an email & we’ll get back to you ASAP</p>",
+            "button_label": "Contact Us",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "order_first": true
+          }
+        },
+        "heading_3T3pMy": {
+          "type": "heading",
+          "settings": {
+            "sub_heading": "",
+            "heading": "Discover more in our FAQ",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h1"
+          }
+        },
+        "collapsible_item_TfGjUU": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "How long does it take to process an order?",
+            "content": "<p>Our 24/7 Lace Contour Plunge Bra combines gorgeous floral lace with sheer overlay straps that hold you in and eliminates gaping. Removable pads let you customize you</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": false
+          }
+        },
+        "collapsible_item_iMe3Nf": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Do you ship internationally?",
+            "content": "<p>Yes, we offer international shipping to select countries. Please check our shipping policy for details on destinations, rates, and delivery times.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": false
+          }
+        },
+        "collapsible_item_JHb4U8": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "What is your return policy?",
+            "content": "<p>We accept returns within 30 days of delivery, provided the items are unused and in their original condition. For detailed instructions, please refer to our return policy or contact our support team.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": false
+          }
+        },
+        "collapsible_item_W83D69": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "What are your sizing options?",
+            "content": "<p>Our products are available in a range of sizes to ensure the perfect fit. Detailed sizing information is provided on each product page, and our size guide can help you choose the best option.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": false
+          }
+        }
+      },
+      "block_order": [
+        "image_card_7YixwV",
+        "heading_3T3pMy",
+        "collapsible_item_TfGjUU",
+        "collapsible_item_iMe3Nf",
+        "collapsible_item_JHb4U8",
+        "collapsible_item_W83D69"
+      ],
+      "custom_css": [
+        ".section__content {max-width: 108rem; margin: 0 auto;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-2",
+        "header_layout": "vertical",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_style": "btn--primary",
+        "button_icon": "none",
+        "column_gap": "extra-large",
+        "row_gap": "inherit",
+        "item_style": "standard",
+        "item_color_scheme": "",
+        "item_heading_font": "heading",
+        "item_heading_size": "h4",
+        "item_icon_size": "extra-large",
+        "padding_top": 80,
+        "padding_bottom": 60,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "scrolling_promotion_Fy9Yhn": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "text_gijz7Q": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Fast Delivery",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_3TVCPg": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "30 Days Free Returns",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_iD6689": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Secure Payment",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_CtJBtL": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "24/7 Customer Support",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_dGmg9m": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Sustainable Materials",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "text_gijz7Q",
+        "text_3TVCPg",
+        "text_iD6689",
+        "text_CtJBtL",
+        "text_dGmg9m"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "direction": "left",
+        "pause_on_hover": true,
+        "speed": 0.2,
+        "h_spacing": 80,
+        "show_section_divider": false,
+        "padding_top": 22,
+        "padding_bottom": 22
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_DgnWDV",
+    "main",
+    "image_with_text_overlay_3FrkpM",
+    "rich_text_kyFd96",
+    "image_with_text_eUKGwj",
+    "buttons_with_icon_AgEzEN",
+    "multicolumn_36XTkC",
+    "testimonials_M9PCcH",
+    "scrolling_promotion_6aUqmj",
+    "image_with_text_DCXDtE",
+    "multicolumn_NVWxEe",
+    "collapsible_tabs_MyaBhj",
+    "scrolling_promotion_Fy9Yhn"
+  ]
+}
