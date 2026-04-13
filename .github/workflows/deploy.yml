@@ -27,21 +27,19 @@ jobs:
         run: npm install -g @shopify/cli@latest
 
       - name: Deploy theme to Shopify
-        env:
-          # Theme Access password — create at Shopify Admin → Apps → Theme Access
-          # Store the value in GitHub → Settings → Secrets → SHOPIFY_CLI_THEME_TOKEN
-          SHOPIFY_CLI_THEME_TOKEN: ${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}
-          SHOPIFY_FLAG_STORE: ${{ secrets.SHOPIFY_FLAG_STORE }}
         run: |
           shopify theme push \
+            --json \
             --theme "${{ secrets.SHOPIFY_THEME_ID }}" \
+            --store "${{ secrets.SHOPIFY_FLAG_STORE }}" \
+            --password "${{ secrets.SHOPIFY_CLI_THEME_TOKEN }}" \
             --allow-live
 
 # ---------------------------------------------------------------------------
 # Required GitHub repository secrets (Settings → Secrets and variables → Actions):
 #
-#   SHOPIFY_FLAG_STORE    — Store domain, e.g. echidna-ai-test2.myshopify.com
-#   SHOPIFY_CLI_THEME_TOKEN — Theme Access password from Shopify Admin
-#   SHOPIFY_THEME_ID      — Numeric ID of the live theme to deploy to
-#                           Find it via: shopify theme list
+#   SHOPIFY_FLAG_STORE        — Store domain, e.g. echidna-ai-test2.myshopify.com
+#   SHOPIFY_CLI_THEME_TOKEN   — Theme Access password from Shopify Admin
+#   SHOPIFY_THEME_ID          — Numeric ID of the live theme to deploy to
+#                               Find it via: shopify theme list
 # ---------------------------------------------------------------------------
