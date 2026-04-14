@@ -137,6 +137,7 @@
         },
         "complementary": {
           "type": "complementary",
+          "disabled": true,
           "settings": {
             "block_heading": "Perfect Match With",
             "heading_size": "h4",
