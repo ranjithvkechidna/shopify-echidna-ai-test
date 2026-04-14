@@ -11,6 +11,11 @@
 {%- liquid
   assign rich_text_size = rich_text_size | default: 'standard'
   assign content_spacing = content_spacing | default: 'small'
+  assign use_image_asset = false
+  if image == blank and image_asset_url != blank
+    assign use_image_asset = true
+  endif
+
   assign image_ratio = image_ratio | default: '1/1'
   if image_ratio == 'adapt'
     if image == blank
@@ -124,7 +129,15 @@
         class="card-media__media media-wrapper h-full{% if image == blank %} bg-none{% endif %}"
         style="--aspect-ratio: {{ image_ratio }};{% if image_mobile_ratio %}--aspect-ratio-mobile: {{ image_mobile_ratio }};{% endif %}"
       >
-        {%- if image != blank -%}
+        {%- if use_image_asset -%}
+          <img
+            src="{{ image_asset_url }}"
+            alt="{{ alt_image }}"
+            loading="lazy"
+            class="media-wrapper__image object-cover w-full h-full"
+            style="object-fit: cover; width: 100%; height: 100%;"
+          >
+        {%- elsif image != blank -%}
           {%- liquid
             assign image_sizes = image_sizes | default: ''
             assign image_widths = '165, 360, 535, 750, 940, 1100, 1300, 1500, 1780, 2000, 2200, 2400, 2600, 2800, 3000, ' | append: image.width

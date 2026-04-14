@@ -124,7 +124,7 @@
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#e5e5e5",
           "text": "#000000",
           "subtext": "#666666",
@@ -137,13 +137,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#ededed",
           "form_field_label": "#000000",
-          "product_price_sale": "#000000",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0e8756"
         }
       },
       "scheme-inverse": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#74C044",
           "border": "#ffffff",
           "text": "#ffffff",
           "subtext": "#ffffff",
@@ -156,13 +156,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#ffffff",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-info": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#e5e5e5",
           "text": "#000000",
           "subtext": "#666666",
@@ -175,13 +175,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#f5f5f5",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-2": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#74C044",
           "border": "#e5e5e5",
           "text": "#ededed",
           "subtext": "#ededed",
@@ -194,13 +194,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#f5f5f5",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-3": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#f7f7f7",
           "text": "#000000",
           "subtext": "#666666",
@@ -213,13 +213,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#ffffff",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-4": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#e6e6e6",
           "text": "#000000",
           "subtext": "#666666",
@@ -232,13 +232,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#f5f5f5",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-6": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#c6bfb1",
           "text": "#000000",
           "subtext": "#666666",
@@ -251,13 +251,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#ffffff",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-7": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#e6e6e6",
           "text": "#000000",
           "subtext": "#666666",
@@ -270,13 +270,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#f5f5f5",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-8": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#ffffff",
           "border": "#e6e6e6",
           "text": "#ffffff",
           "subtext": "#ffffff",
@@ -289,13 +289,13 @@
           "secondary_button_label": "#ffffff",
           "form_field": "#f5f5f5",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-9": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#e5e5e5",
           "text": "#000000",
           "subtext": "#666666",
@@ -308,13 +308,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#ededed",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-10": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#e5e5e5",
           "text": "#000000",
           "subtext": "#666666",
@@ -327,13 +327,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#ededed",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-11": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#516971",
           "text": "#072835",
           "subtext": "#516971",
@@ -346,13 +346,13 @@
           "secondary_button_label": "#072835",
           "form_field": "#ffffff",
           "form_field_label": "#072835",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-12": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#516971",
           "text": "#072835",
           "subtext": "#516971",
@@ -365,13 +365,13 @@
           "secondary_button_label": "#072835",
           "form_field": "#ffffff",
           "form_field_label": "#072835",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-13": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#e6e9eb",
           "text": "#072835",
           "subtext": "#516971",
@@ -384,13 +384,13 @@
           "secondary_button_label": "#072835",
           "form_field": "#ededed",
           "form_field_label": "#072835",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-14": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#e5e5e5",
           "text": "#212121",
           "subtext": "#000000",
@@ -403,13 +403,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#ffffff",
           "form_field_label": "#000000",
-          "product_price_sale": "#000000",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-9f4ecb81-07de-4665-95b9-bae4e779a098": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#e5e5e5",
           "text": "#000000",
           "subtext": "#666666",
@@ -422,13 +422,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#ededed",
           "form_field_label": "#000000",
-          "product_price_sale": "#000000",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-aa80fe7f-3259-4a73-a399-b353a41aa0a1": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#e5e5e5",
           "text": "#000000",
           "subtext": "#666666",
@@ -441,32 +441,32 @@
           "secondary_button_label": "#000000",
           "form_field": "#ededed",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-758f9583-ae73-4220-8617-624caaf937ad": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#e5e5e5",
           "text": "#ffffff",
           "subtext": "#ffffff",
           "background": "#74c044",
           "secondary_background": "#ededed",
-          "button": "#74C044",
+          "button": "#ffffff",
           "button_label": "#ffffff",
           "secondary_button": "#ededed",
           "secondary_button_border": "#ededed",
           "secondary_button_label": "#000000",
           "form_field": "#ededed",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-84dce63f-17fc-4600-9b22-831a89218e4d": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#74C044",
           "border": "#e5e5e5",
           "text": "#ffffff",
           "subtext": "#ffffff",
@@ -479,13 +479,13 @@
           "secondary_button_label": "#000000",
           "form_field": "#ededed",
           "form_field_label": "#000000",
-          "product_price_sale": "#c4301c",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0d8756"
         }
       },
       "scheme-e93c63bb-9952-4aa5-851f-d3bdb8e00525": {
         "settings": {
-          "primary_accent": "#c4301c",
+          "primary_accent": "#233E86",
           "border": "#e5e5e5",
           "text": "#000000",
           "subtext": "#666666",
@@ -498,7 +498,7 @@
           "secondary_button_label": "#000000",
           "form_field": "#ededed",
           "form_field_label": "#000000",
-          "product_price_sale": "#000000",
+          "product_price_sale": "#C22326",
           "progress_bar_color": "#0e8756"
         }
       }

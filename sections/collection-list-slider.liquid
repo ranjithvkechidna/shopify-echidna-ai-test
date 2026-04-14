@@ -74,6 +74,22 @@
               {%- liquid
                 assign collection = collections[block.settings.collection]
                 assign title = block.settings.title
+                assign cat_icon_url = ''
+                assign col_handle = block.settings.collection | downcase
+                case col_handle
+                  when 'laptops'
+                    assign cat_icon_url = 'cat-icon-laptops.png' | asset_url
+                  when 'desktops'
+                    assign cat_icon_url = 'cat-icon-desktops.png' | asset_url
+                  when 'smartphones'
+                    assign cat_icon_url = 'cat-icon-smartphones.png' | asset_url
+                  when 'tablets'
+                    assign cat_icon_url = 'cat-icon-tablets.png' | asset_url
+                  when 'gaming'
+                    assign cat_icon_url = 'cat-icon-gaming.png' | asset_url
+                  when 'servers-networking'
+                    assign cat_icon_url = 'cat-icon-servers.png' | asset_url
+                endcase
               -%}
               <div
                 class="f-column swiper-slide"
@@ -83,6 +99,7 @@
                 {% render 'card-collection',
                   collection: collection,
                   featured_image: block.settings.image,
+                  featured_image_url: cat_icon_url,
                   title: title,
                   image_ratio: section.settings.card_image_ratio,
                   has_bg: card_has_bg,

@@ -16,7 +16,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "laptops",
-            "image": "shopify://shop_images/Container_5.png",
+            "image": "",
             "title": "Laptops"
           }
         },
@@ -24,7 +24,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "desktops",
-            "image": "shopify://shop_images/Container_4.png",
+            "image": "",
             "title": "Desktops"
           }
         },
@@ -32,7 +32,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "smartphones",
-            "image": "shopify://shop_images/Container_3.png",
+            "image": "",
             "title": "Smartphones"
           }
         },
@@ -40,7 +40,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "tablets",
-            "image": "shopify://shop_images/Container_2.png",
+            "image": "",
             "title": "Tablets"
           }
         },
@@ -48,7 +48,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "gaming",
-            "image": "shopify://shop_images/Container.png",
+            "image": "",
             "title": "Gaming"
           }
         },
@@ -56,7 +56,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "servers-networking",
-            "image": "shopify://shop_images/Container_1.png",
+            "image": "",
             "title": "Servers/Networking"
           }
         },
@@ -350,7 +350,7 @@
             "show_banner": true,
             "color_scheme": "scheme-inverse",
             "card_link": "shopify://collections/best-sellers",
-            "banner_image": "shopify://shop_images/938d7124384625736b388c2159f90f3545291d09.jpg",
+            "banner_image": "",
             "image_overlay_opacity": 30,
             "content_position": "split-bottom-button",
             "content_alignment": "left",
@@ -473,7 +473,7 @@
             "show_banner": true,
             "color_scheme": "scheme-inverse",
             "card_link": "shopify://collections/deals",
-            "banner_image": "shopify://shop_images/938d7124384625736b388c2159f90f3545291d09.jpg",
+            "banner_image": "",
             "image_overlay_opacity": 30,
             "content_position": "split-bottom-button",
             "content_alignment": "left",
@@ -765,7 +765,7 @@
           "type": "image_card",
           "settings": {
             "color_scheme": "scheme-84dce63f-17fc-4600-9b22-831a89218e4d",
-            "image": "shopify://shop_images/Frame_1000004461.png",
+            "image": "",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "content_position": "middle-left",
@@ -773,7 +773,7 @@
             "content_spacing": "small",
             "content_gap": "fitted",
             "card_link": "shopify://collections/laptops",
-            "subheading": "",
+            "subheading": "Refurbished & New",
             "subheading_style": "",
             "heading": "Laptops",
             "highlight_style": "none",
@@ -806,7 +806,7 @@
           "type": "image_card",
           "settings": {
             "color_scheme": "scheme-84dce63f-17fc-4600-9b22-831a89218e4d",
-            "image": "shopify://shop_images/Frame_1000004444.png",
+            "image": "",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "content_position": "middle-left",
@@ -814,7 +814,7 @@
             "content_spacing": "small",
             "content_gap": "fitted",
             "card_link": "shopify://collections/smartphones",
-            "subheading": "",
+            "subheading": "Refurbished & New",
             "subheading_style": "",
             "heading": "Smartphones",
             "highlight_style": "none",

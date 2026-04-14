@@ -156,12 +156,22 @@
                   </motion-element>
                 </div>
               {%- when 'image_card' -%}
+                {%- liquid
+                  assign feat_img_asset_url = ''
+                  assign card_link_lc = block.settings.card_link | downcase
+                  if card_link_lc contains 'laptops'
+                    assign feat_img_asset_url = 'feat-img-laptops.png' | asset_url
+                  elsif card_link_lc contains 'smartphones'
+                    assign feat_img_asset_url = 'feat-img-smartphones.png' | asset_url
+                  endif
+                -%}
                 {% render 'card-image',
                   parent_color_scheme: section.settings.color_scheme,
                   color_scheme: block.settings.color_scheme,
                   color_scheme_mobile: block.settings.color_scheme_mobile,
                   link: block.settings.card_link,
                   image: block.settings.image,
+                  image_asset_url: feat_img_asset_url,
                   image_ratio: block.settings.image_ratio,
                   image_overlay_opacity: block.settings.image_overlay_opacity,
                   image_mobile: block.settings.image_mobile,
