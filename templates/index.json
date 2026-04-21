@@ -16,7 +16,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "laptops",
-            "image": "shopify://shop_images/Container_5.png",
+            "image": "shopify://shop_images/laptops.png",
             "title": "Laptops"
           }
         },
@@ -24,7 +24,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "desktops",
-            "image": "shopify://shop_images/Container_4.png",
+            "image": "shopify://shop_images/desktop.png",
             "title": "Desktops"
           }
         },
@@ -32,7 +32,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "smartphones",
-            "image": "shopify://shop_images/Container_3.png",
+            "image": "shopify://shop_images/moble.png",
             "title": "Smartphones"
           }
         },
@@ -40,7 +40,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "tablets",
-            "image": "shopify://shop_images/Container_2.png",
+            "image": "shopify://shop_images/tablets.png",
             "title": "Tablets"
           }
         },
@@ -48,7 +48,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "gaming",
-            "image": "shopify://shop_images/Container.png",
+            "image": "shopify://shop_images/console.png",
             "title": "Gaming"
           }
         },
@@ -56,7 +56,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "servers-networking",
-            "image": "shopify://shop_images/Container_1.png",
+            "image": "shopify://shop_images/server.png",
             "title": "Servers/Networking"
           }
         },
@@ -64,7 +64,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "accessories",
-            "image": "",
+            "image": "shopify://shop_images/Frame_1000004437_5.png",
             "title": "Accessories"
           }
         },
@@ -72,7 +72,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "healthcare",
-            "image": "",
+            "image": "shopify://shop_images/Frame_1000004437_4.png",
             "title": "Healthcare"
           }
         }
@@ -156,8 +156,8 @@
           "type": "slide",
           "settings": {
             "color_scheme": "scheme-inverse",
-            "background": "shopify://shop_images/A_spot.png",
-            "background_mobile": "shopify://shop_images/Container_eb27d50f-6341-4601-a04b-3076e8778919.png",
+            "background": "shopify://shop_images/Top_deals.png",
+            "background_mobile": "shopify://shop_images/Container-3.png",
             "image_overlay_opacity": 30,
             "content_position": "middle-left",
             "text_alignment": "left",
@@ -181,7 +181,8 @@
           "type": "slide",
           "settings": {
             "color_scheme": "scheme-inverse",
-            "background": "shopify://shop_images/A_spot.png",
+            "background": "shopify://shop_images/Bestsellers.png",
+            "background_mobile": "shopify://shop_images/Container-4.png",
             "image_overlay_opacity": 30,
             "content_position": "middle-left",
             "text_alignment": "left",
@@ -200,6 +201,30 @@
             "button_icon": "none",
             "enable_preload_image": false
           }
+        },
+        "slide_KdFRHd": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "background": "shopify://shop_images/banner-1.png",
+            "image_overlay_opacity": 30,
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "subheading": "IT Solutions for Healthcare",
+            "title": "Reliable Tech for Healthcare Environments",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "hd2",
+            "description": "<p>Certified refurbished and new devices for healthcare professionals.</p>",
+            "description_size": "text-lg",
+            "button_label": "Shop Healthcare",
+            "button_link": "shopify://collections/healthcare",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "enable_preload_image": false
+          }
         }
       },
       "block_order": [
@@ -210,7 +235,7 @@
       ],
       "settings": {
         "container": "fixed",
-        "slide_height": "small",
+        "slide_height": "large",
         "show_controls": true,
         "autoplay": true,
         "autoplay_delay": 6,
@@ -254,7 +279,7 @@
             "image_rounded": false,
             "image_text": "Google",
             "image_position": true,
-            "image_link": "shopify://collections",
+            "image_link": "shopify://collections/google",
             "image_height_mobile": 40
           }
         },
@@ -266,7 +291,7 @@
             "image_rounded": false,
             "image_text": "Samsung",
             "image_position": true,
-            "image_link": "shopify://collections",
+            "image_link": "shopify://collections/samsung",
             "image_height_mobile": 40
           }
         },
@@ -325,7 +350,7 @@
             "show_banner": true,
             "color_scheme": "scheme-inverse",
             "card_link": "shopify://collections/best-sellers",
-            "banner_image": "shopify://shop_images/938d7124384625736b388c2159f90f3545291d09.jpg",
+            "banner_image": "shopify://shop_images/best-seller.png",
             "image_overlay_opacity": 30,
             "content_position": "split-bottom-button",
             "content_alignment": "left",
@@ -448,7 +473,7 @@
             "show_banner": true,
             "color_scheme": "scheme-inverse",
             "card_link": "shopify://collections/deals",
-            "banner_image": "shopify://shop_images/938d7124384625736b388c2159f90f3545291d09.jpg",
+            "banner_image": "shopify://shop_images/top-deals.png",
             "image_overlay_opacity": 30,
             "content_position": "split-bottom-button",
             "content_alignment": "left",
@@ -740,15 +765,15 @@
           "type": "image_card",
           "settings": {
             "color_scheme": "scheme-84dce63f-17fc-4600-9b22-831a89218e4d",
-            "image": "shopify://shop_images/Frame_1000004461.png",
+            "image": "shopify://shop_images/laptop.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "content_position": "middle-left",
             "content_alignment": "left",
             "content_spacing": "small",
             "content_gap": "fitted",
-            "card_link": "shopify://collections/laptop",
-            "subheading": "",
+            "card_link": "shopify://collections/laptops",
+            "subheading": "Refurbished & New",
             "subheading_style": "",
             "heading": "Laptops",
             "highlight_style": "none",
@@ -781,15 +806,15 @@
           "type": "image_card",
           "settings": {
             "color_scheme": "scheme-84dce63f-17fc-4600-9b22-831a89218e4d",
-            "image": "shopify://shop_images/Frame_1000004444.png",
+            "image": "shopify://shop_images/smartphone.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,
             "content_position": "middle-left",
             "content_alignment": "left",
             "content_spacing": "small",
             "content_gap": "fitted",
-            "card_link": "shopify://collections/smart-phones",
-            "subheading": "",
+            "card_link": "shopify://collections/smartphones",
+            "subheading": "Refurbished & New",
             "subheading_style": "",
             "heading": "Smartphones",
             "highlight_style": "none",

@@ -88,7 +88,7 @@
         "custom_card_CpJYyU": {
           "type": "custom_card",
           "settings": {
-            "menu_title": "Shop by Categories",
+            "menu_title": "Shop by Category",
             "menu_columns": 5,
             "enable_hl_link": false,
             "hl_link_style": "text_color",

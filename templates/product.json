@@ -58,17 +58,17 @@
         },
         "icon_with_text": {
           "type": "icon-with-text",
-          "disabled": true,
+          "disabled": false,
           "settings": {
             "layout": "horizontal",
             "title_font": "body-bolder",
-            "title_size": "text-base",
+            "title_size": "text-sm",
             "icon_1": "check",
-            "heading_1": "Modern",
-            "icon_2": "check",
-            "heading_2": "Eco-certified",
+            "heading_1": "Eco Certified",
+            "icon_2": "shield-check",
+            "heading_2": "Warranty Available",
             "icon_3": "check",
-            "heading_3": "Warranty"
+            "heading_3": "Quality Tested"
           }
         },
         "inventory": {
@@ -137,6 +137,7 @@
         },
         "complementary": {
           "type": "complementary",
+          "disabled": true,
           "settings": {
             "block_heading": "Perfect Match With",
             "heading_size": "h4",
@@ -152,25 +153,25 @@
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
-          "disabled": true,
+          "disabled": false,
           "settings": {
             "heading": "Specifications",
             "heading_size": "h4",
             "icon": "none",
             "content": "",
-            "page": "content",
+            "page": "",
             "default_open": true,
             "show_below_product_media": true
           }
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
-          "disabled": true,
+          "disabled": false,
           "settings": {
             "heading": "Product Details",
             "heading_size": "h4",
             "icon": "none",
-            "content": "<p>Designed with care and crafted from premium materials, our products combine durability, comfort, and timeless style. Each piece is thoughtfully made to enhance your living space, offering a perfect balance of functionality and elegance that complements any home and suits your unique lifestyle.</p>",
+            "content": "<p>All products are thoroughly inspected, tested, and certified before shipping. Each unit comes with a grade report and has been restored to full working condition.</p>",
             "page": "",
             "default_open": false,
             "show_below_product_media": true
@@ -178,12 +179,12 @@
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
-          "disabled": true,
+          "disabled": false,
           "settings": {
-            "heading": "Materials & Care",
+            "heading": "Shipping & Returns",
             "heading_size": "h4",
             "icon": "none",
-            "content": "<p>Carefully crafted from durable, sustainable materials, each piece is designed for long-lasting use and timeless style. For proper care, wipe gently with a soft, damp cloth to remove dust and dirt. Avoid using harsh chemicals, abrasive cleaners, or excessive moisture to protect the finish and maintain its pristine look.</p>",
+            "content": "<p>Free shipping on orders over $500. Standard delivery within 3-7 business days. Free returns within 30 days of purchase \u2014 no questions asked.</p>",
             "page": "",
             "default_open": false,
             "show_below_product_media": true
@@ -294,7 +295,7 @@
           "settings": {
             "icon": "none",
             "heading": "Testimonials",
-            "text": "<p>“I am extremely happy about both design and comfort. I am a furniture designer myself, and your product makes me happy.”</p>",
+            "text": "<p>\u201cI am extremely happy about both design and comfort. I am a furniture designer myself, and your product makes me happy.\u201d</p>",
             "author": "Stephanie L.",
             "bio": "Verified Buyer",
             "product": ""
@@ -316,7 +317,7 @@
           "settings": {
             "icon": "none",
             "heading": "Testimonials",
-            "text": "<p>“High-quality furniture, crafted with passion and care, fantastic in appearance and use, reasonably priced, and excellent custome.”</p>",
+            "text": "<p>\u201cHigh-quality furniture, crafted with passion and care, fantastic in appearance and use, reasonably priced, and excellent custome.\u201d</p>",
             "author": "Emily J.",
             "bio": "Verified Buyer",
             "product": ""
@@ -733,7 +734,7 @@
         "text_nF69XB": {
           "type": "text",
           "settings": {
-            "text": "<p>Made entirely of oak, the Bow Chair is comfortable, visually pleasing and brimming with character.  The moulded plywood seat is unusually wide in proportion to its depth and a waterfall edge at the front softens contact with the hamstrings. </p>",
+            "text": "<p>Made entirely of oak, the Bow Chair is comfortable, visually pleasing and brimming with character.\u00a0 The moulded plywood seat is unusually wide in proportion to its depth and a waterfall edge at the front softens contact with the hamstrings.\u00a0</p>",
             "subtext_color": true
           }
         },
@@ -1130,7 +1131,7 @@
         "section_header_alignment": "center",
         "section_header_alignment_mobile": "inherit",
         "subheading": "",
-        "heading": "We’re on Gram",
+        "heading": "We\u2019re on Gram",
         "highlight_style": "none",
         "highlight_font_style": "italic",
         "highlight_style_color": "",
@@ -1152,6 +1153,141 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "support_section_pdp": {
+      "type": "multicolumn-icon",
+      "blocks": {
+        "col_support_cs": {
+          "type": "column",
+          "settings": {
+            "icon": "clock",
+            "max_width": 60,
+            "max_width_mb": 60,
+            "title": "Customer Service",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h5",
+            "heading_font": "heading",
+            "text": "<p>Mon \u2013 Sat | 9:00 AM \u2013 5:00 PM EST</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--plain",
+            "button_icon": "none"
+          }
+        },
+        "col_support_phone": {
+          "type": "column",
+          "settings": {
+            "icon": "phone",
+            "max_width": 60,
+            "max_width_mb": 60,
+            "title": "Call Us",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h5",
+            "heading_font": "heading",
+            "text": "<p>+1 (888) 555-0100</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--plain",
+            "button_icon": "none"
+          }
+        },
+        "col_support_email": {
+          "type": "column",
+          "settings": {
+            "icon": "envelope",
+            "max_width": 60,
+            "max_width_mb": 60,
+            "title": "Get in Touch",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h5",
+            "heading_font": "heading",
+            "text": "<p><a href=\"mailto:info@dynamicitHardware.com\">info@dynamicitHardware.com</a></p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--plain",
+            "button_icon": "none"
+          }
+        },
+        "col_support_addr": {
+          "type": "column",
+          "settings": {
+            "icon": "map-pin",
+            "max_width": 60,
+            "max_width_mb": 60,
+            "title": "Address",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h5",
+            "heading_font": "heading",
+            "text": "<p>1234 Tech Blvd, Suite 100<br>New York, NY 10001</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--plain",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "col_support_cs",
+        "col_support_phone",
+        "col_support_email",
+        "col_support_addr"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-1",
+        "header_layout": "vertical",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "button_icon": "none",
+        "enable_sticky": false,
+        "card_color_scheme": "",
+        "content_alignment": "center",
+        "image_position": "top",
+        "icon_color": "#233E86",
+        "section_background_color": "#ffffff",
+        "column_background_color": "#ffffff",
+        "column_heading_color": "#000000",
+        "column_text_color": "#666666",
+        "column_link_color": "#233E86",
+        "columns_desktop": 4,
+        "column_gap": "large",
+        "row_gap": "inherit",
+        "show_divider_col": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "show_section_divider": true,
+        "divider_width": "fixed",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
     }
   },
   "order": [
@@ -1167,6 +1303,7 @@
     "related-products",
     "1775562557b783f7a3",
     "multicolumn_icon_3qbxHn",
+    "support_section_pdp",
     "scrolling_gallery_image_eqULib"
   ]
 }

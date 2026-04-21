@@ -234,12 +234,23 @@ calc(100vw / {{ columns_desktop }})
             >
               <div class="featured-collection__items products-list f-grid f-grid--gap-{{ section.settings.column_gap }} f-grid--row-gap-{{ section.settings.row_gap }}{% if enable_slider %} swiper-wrapper{% endif %}{% if enable_swipe_mobile %} swipe-mobile__inner{% endif %}">
                 {% if show_banner %}
+                  {%- liquid
+                    assign banner_asset_url = ''
+                    assign col_handle_fc = block.settings.collection | downcase
+                    case col_handle_fc
+                      when 'best-sellers', 'bestsellers'
+                        assign banner_asset_url = 'feat-banner-bestsellers.png' | asset_url
+                      when 'deals', 'top-deals'
+                        assign banner_asset_url = 'feat-banner-topdeals.png' | asset_url
+                    endcase
+                  -%}
                   <div class="f-column{% if enable_slider %} swiper-slide{% endif %}">
                     {% render 'card-image',
                       color_scheme: block.settings.color_scheme,
                       content_spacing: 'extra-small',
                       link: block.settings.card_link,
                       image: block.settings.banner_image,
+                      image_asset_url: banner_asset_url,
                       image_overlay_opacity: block.settings.image_overlay_opacity,
                       heading: block.settings.heading,
                       highlight_style: block.settings.highlight_style,
